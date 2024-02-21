@@ -4,7 +4,7 @@ This is a backlog of user stories for FlavorForge, a tool for 3D-printing delici
 
 ## Current Features
 
-These are features that are currently implemented in IntegriMark, and which feature on the landing page.
+These are features that are currently implemented in FlavorForge, and which feature on the landing page.
 
 ### Illustrated Features
 
