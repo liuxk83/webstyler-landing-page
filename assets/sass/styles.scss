@@ -1,10 +1,10 @@
 .home {
     --bd-purple: #6421ea;
-    --bd-violet: rgb(2, 211, 248);
+    --bd-violet: #001aff;
     --bd-accent: #3af356;
-    --bd-violet-rgb: 232,0,55;
-    --bd-accent-rgb: 232,0,155;
-    --bd-pink-rgb: 232,0,255;
+    --bd-violet-rgb: 35,219,164;
+    --bd-accent-rgb: 35,102,219;
+    --bd-pink-rgb: 96,35,219;
 
     .bd-masthead {
         padding: 3rem 0;
@@ -30,7 +30,7 @@
 .navbar {
     @extend .navbar-dark;
 
-    --bd-violet-rgb: 0,200,250;
+    --bd-violet-rgb: 0,26,255;
     
     padding: .75rem 0;
     background-color: transparent;
