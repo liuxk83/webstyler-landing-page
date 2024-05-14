@@ -1,7 +1,7 @@
 baseURL = 'https://liuxk83.github.io/webstyler-landing-page/'
 title = "WebStyler"
-author = "Kevin Liu"
-copyright = "Kevin Liu"
+author = "Andy Li, Judah Nouriyelian, Adam Gorka, Kevin Liu"
+copyright = "Andy Li, Judah Nouriyelian, Adam Gorka, Kevin Liu"
 
 timeZone = 'Europe/London'
 
